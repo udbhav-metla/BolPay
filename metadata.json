@@ -1,0 +1,6 @@
+{
+  "name": "BolPay: Voice Invoicing for Informal Workers",
+  "description": "Speak in Hindi, Telugu, or English to create real PayPal invoices, track pending dues, and dispatch polite multilingual reminders.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
